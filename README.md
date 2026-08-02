@@ -4,7 +4,7 @@ A cinematic editorial website for IGAAKS handcrafted brass and steel slit visors
 
 ## Live site
 
-This repository is published with GitHub Pages.
+[View IGAAKS Eye Armor on GitHub Pages](https://markplaga.github.io/IGAAKSEyeArmor/)
 
 ## Links
 
